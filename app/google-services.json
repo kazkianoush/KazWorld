@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "620307093721",
+    "project_id": "kazworld-751f3",
+    "storage_bucket": "kazworld-751f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620307093721:android:0fb1dc0eabf76007cc86c8",
+        "android_client_info": {
+          "package_name": "com.example.kazworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620307093721-4kcb428ce0td9s1qp6b844ad7fabgcq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC--qnciJfmp9VHzrH-93eEmZuv0ornzF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620307093721-4kcb428ce0td9s1qp6b844ad7fabgcq9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
